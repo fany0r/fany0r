@@ -1,3 +1,4 @@
+<html>
 <style>
   #sec{
     border-radius: 2px;
@@ -24,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</html>
