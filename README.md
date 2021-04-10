@@ -1,9 +1,6 @@
 ![](https://z3.ax1x.com/2021/04/10/cdk2X6.jpg)
 
-![](https://github-readme-stats.vercel.app/api?username=Kuibagit)
-<figure class="third">
-  <img src="https://z3.ax1x.com/2021/04/10/cdnqPO.jpg"/>
-</figure>
+![](https://github-readme-stats.vercel.app/api?username=Kuibagit)<figure class="third"><img src="https://z3.ax1x.com/2021/04/10/cdnqPO.jpg"/></figure>
 
 <!--
 **Kuibagit/Kuibagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
