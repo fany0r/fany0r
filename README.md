@@ -1,7 +1,7 @@
 ![](https://z3.ax1x.com/2021/04/10/cdk2X6.jpg)
 
 <figure class="third">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuibagit" width="536" height="204" align ="left"><img src="https://z3.ax1x.com/2021/04/10/cdnkuR.jpg" style="float:leth; width:296px;height:204px; border-radius:10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuibagit" width="536" height="204" align ="left"><img src="https://z3.ax1x.com/2021/04/10/cdnkuR.jpg"  width="296p" height="204" style="float:leth;border-radius:10px;"/>
 </figure>
 
 <!--
