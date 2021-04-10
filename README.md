@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Kuibagit)
 <figure class="third">
-  <img src="(https://z3.ax1x.com/2021/04/10/cdnqPO.jpg"/>
+  <img src="https://z3.ax1x.com/2021/04/10/cdnqPO.jpg"/>
 </figure>
 
 <!--
