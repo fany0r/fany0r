@@ -1,10 +1,15 @@
+!DOCTYPE html>
 <html>
-<style>
+<head>
+<meta charset="utf-8"> 
+<title>/title> 
+<style> 
   #sec{
     border-radius: 2px;
   }
 </style>
-
+</head>
+<body>
 <img id= "sec" src="https://z3.ax1x.com/2021/04/10/cdk2X6.jpg">
 
 <figure class="third">
@@ -25,4 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
 </html>
