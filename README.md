@@ -1,6 +1,6 @@
 ![](https://z3.ax1x.com/2021/04/10/cdk2X6.jpg)
 
-![](https://github-readme-stats.vercel.app/api?username=Kuibagit)![](http://p2.so.qhmsg.com/t0123b837c9c4263758.jpg)
+![](https://github-readme-stats.vercel.app/api?username=Kuibagit) ![](https://z3.ax1x.com/2021/04/10/cdnkuR.jpg)
 
 <!--
 **Kuibagit/Kuibagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
