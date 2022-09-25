@@ -1,13 +1,19 @@
 🔭 
+</br>
+yo nice
+</br>
+![Profile views](https://komarev.com/ghpvc/?username=Kuibagit)
 
-![](https://z3.ax1x.com/2021/04/10/cdk2X6.jpg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Kuibagit/Kuibagit/output/github-contribution-grid-snake.svg)
+
+<img src="https://s1.ax1x.com/2022/09/26/xExUeS.jpg" referrerPolicy="no-referrer" />
 
 <figure class="third">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuibagit&show_icons=true&theme=radical" width="536" height="204" align ="left"><img src="https://z3.ax1x.com/2021/04/10/cdNJ6P.png" width="290p" height="204" style="float:leth;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kuibagit&show_icons=true&theme=radical" width="536" height="204" align ="left" ><img src="https://s1.ax1x.com/2022/09/26/xExtL8.png" width="290p" height="204" style="float:leth;" referrerPolicy="no-referrer" />
 </figure>
 
 <!--
-**Kuibagit/Kuibagit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
