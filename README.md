@@ -4,7 +4,11 @@ yo nice
 </br>
 ![Profile views](https://komarev.com/ghpvc/?username=Kuibagit)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Kuibagit/Kuibagit/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kuibagit/Kuibagit/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kuibagit/Kuibagit/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kuibagit/Kuibagit/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://s1.ax1x.com/2022/09/26/xExUeS.jpg" referrerPolicy="no-referrer" />
 
