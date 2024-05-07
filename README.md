@@ -10,10 +10,10 @@ yo nice
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fany0r/fany0r/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://s1.ax1x.com/2022/09/26/xExUeS.jpg" referrerPolicy="no-referrer" />
+<img src="https://raw.githubusercontent.com/fany0r/fany0r/output/xExUeS.jpg" referrerPolicy="no-referrer" />
 
 <figure class="third">
-  <img src="https://github-readme-stats.vercel.app/api?username=fany0r&show_icons=true&theme=radical" width="536" height="204" align ="left" ><img src="https://s1.ax1x.com/2022/09/26/xExtL8.png" width="290p" height="204" style="float:leth;" referrerPolicy="no-referrer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fany0r&show_icons=true&theme=radical" width="536" height="204" align ="left" ><img src="https://raw.githubusercontent.com/fany0r/fany0r/output/xExtL8.png" width="290p" height="204" style="float:leth;" referrerPolicy="no-referrer" />
 </figure>
 
 <!--
